@@ -30,7 +30,6 @@ $('.countdown').downCount({
     date: '08/19/2016 12:00:00',
     offset: +10
 }, function () {
-    alert('Hooray! The MBT Server Networks Website is almost done loading! Please wait just a few seconds more.');
 });
     
 
